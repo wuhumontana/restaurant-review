@@ -1,2 +1,2 @@
 # review
-Customers will be able to make, modify and cancel reservations. Restaurants will be able to view and manage all their reservations.
+Customers will be able to leave reviews for the restaurants they have visited.
